@@ -1,7 +1,7 @@
 # Car Counting
 ## Objective 
 ```
-    To check the changing status of slots over a selected time period. Because we would like to know
+    To check the amount of changing status of slots over a selected time period.
     The changing status : Available to Occupied parking.
 ```
 ## Prerequisite
