@@ -10,7 +10,6 @@ A raw data can be downloaded from this url :... in form of .csv format
  - Plot car amount over 1 month
  
 ### 2. Car counting
- - Counting amount of car parking in each slot by following this conditions
-	 - Date 
-	 - Period of time
+ - Counting amount of car parking in each slot by selected date
+
 	
