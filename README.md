@@ -16,4 +16,8 @@ Data is generated over 1 month with 1 hours interval
 ### 2. Car counting
  - Counting amount of car parking in each slot by selected date
 
-	
+# Group Member
+1.      Miss Warnnaphorn 	Suksuganjana 	6222040328 </br>
+2.	Mr. Teepakorn 		Tosawadi        6214552638  </br>
+3.	Miss Warisara 		Asawaponwiput 	6214552662  </br>
+
